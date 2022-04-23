@@ -1,0 +1,15 @@
+body {
+    width: 70vw;
+    margin: 10px auto;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    color: green;
+    font-style: italic;
+    text-align: justify;
+}
